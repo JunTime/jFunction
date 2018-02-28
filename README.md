@@ -5,5 +5,5 @@ JavaScript Functions
 欢迎大家提交有用的js方法。
 
 推荐一个dig命令行在线工具网站
-dig Gui
+DiG GUI
 https://www.diggui.com
